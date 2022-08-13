@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qalabhussnainshah
 - 👀 I’m interested in developing something new products
 - 🌱 I’m currently learning backend development
-- 💞️ I’m looking to collaborate on projects which use javascript and python language
+- 💞️ I’m looking to collaborate on ( React | React Native ) Projects
 - 📫 How to reach me ... email= qalabhussnainshah@gmail.com
 
 <!---
